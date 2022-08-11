@@ -6,6 +6,7 @@
 3. Verificar si está instalado pip: pip --version
 ```pip --version ```
 1. En caso que no esté instalado, volver a la carpeta djangoenv y ejecutar:
+```python get-pip.py```
 2. Dirigirse a ./Django Calculator App
 3. Verificar si está instalado django con: 
 ```python -m django --version ```
